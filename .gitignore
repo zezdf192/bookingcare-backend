@@ -1,0 +1,8 @@
+/node_modules
+/vscode
+/vendor
+/.vscode
+/.idea
+.idea/
+.env
+.prettierrc
